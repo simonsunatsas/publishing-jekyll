@@ -1,3 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: This is the Title of the Site
+description: Description of the site
+show_download: true
+linkedin: "https://www.linkedin.com/in/haoyusun/"
